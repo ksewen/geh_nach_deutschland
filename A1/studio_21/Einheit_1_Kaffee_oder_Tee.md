@@ -104,12 +104,12 @@ Sie/sie | sind | kommen | wohnen | trinken | heißen
 * h**ei**ßen
 * tr**i**nken
 * k**o**mmen
-* n**eh**men
-* w**oh**nen
+* n**e**hmen
+* w**o**hnen
 * h**ö**ren
 * l**e**sen
 * sort**ie**ren
-* verst**eh**en
+* verst**e**hen
 * spr**e**chen
 * s**a**mmeln
 * **ü**ben
