@@ -7,7 +7,7 @@
 ### Um Platz bitten
 ```
 + Entschuldigung, ist hier noch frei?
-- Ja klar, bitte./Nein, leider nicht.
+- Ja klar, bitte./ Nein, leider nicht.
 ```
 
 ### Was trinken Sie?
@@ -64,7 +64,7 @@ Ich wohne jetzt in Dortmund./ Ich lebe jetzt in Dortmund.
 Grüß dich!
 Das ist Julian/Mia.
 Er/Sie kommt aus Österreich./ Er/Sie ist aus Österreich.
-Er/Sie wohnt jetzt in Bremen./Er/Sie lebt jetzt in Bremen.
+Er/Sie wohnt jetzt in Bremen./ Er/Sie lebt jetzt in Bremen.
 ```
 
 ```
@@ -115,8 +115,8 @@ Sie/sie | sind | kommen | wohnen | trinken | heißen
 * **ü**ben
 
 ## Zahlen und Zählen
-### von 1 bis 12
-eins &emsp; zwei &emsp; drei &emsp; vier &emsp; fünf &emsp; sechs &emsp; sieben &emsp; acht  &emsp; neun &emsp; zehn &emsp; elf &emsp; zwölf
+### von 0 bis 12
+null &emsp; eins &emsp; zwei &emsp; drei &emsp; vier &emsp; fünf &emsp; sechs &emsp; sieben &emsp; acht  &emsp; neun &emsp; zehn &emsp; elf &emsp; zwölf
 ### von 13 bis 20
 dreizehn &emsp; vierzehn &emsp; fünfzehn &emsp; sechzehn &emsp; siebzehn &emsp; achtzehn &emsp; neunzehn &emsp; zwanzig
 ### von 21 bis 30
