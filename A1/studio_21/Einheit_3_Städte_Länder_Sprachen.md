@@ -110,14 +110,14 @@ ihr | wart
 Sie/sie | waren
 
 ### Verb Konjugation
-&nbsp; | sprechen | lesen | laufen
- | ---- | ---- | ---- | ---- |
-ich | spreche | lese | laufe
-du | spr**i**chst | l**ie**st | l**ä**ufst
-er/sie/es | spr**i**cht | l**ie**t | l**ä**uft
-wir | sprechen | lesen | laufen
-ihr | sprecht | lest | lauft
-Sie/sie | sprechen | lesen | laufen
+&nbsp; | sprechen | lesen | laufen | arbeiten 
+ | ---- | ---- | ---- | ---- | ---- |
+ich | spreche | lese | laufe | arbeite
+du | spr**i**chst | l**ie**st | l**ä**ufst | arbeit**est**
+er/sie/es | spr**i**cht | l**ie**t | l**ä**uft | arbeit**et**
+wir | sprechen | lesen | laufen | arbeiten
+ihr | sprecht | lest | lauft | arbeit**et**
+Sie/sie | sprechen | lesen | laufen | arbeiten
 
 ### W-Fragen und Satzfragen
 &nbsp; | Position 2 | &nbsp;
