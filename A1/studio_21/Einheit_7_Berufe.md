@@ -74,8 +74,8 @@ Unregelmäßig
 ### Modalverben
 &nbsp; | Position 2 (Modalverb) | &nbsp; | Satzende (Infinitiv)
  | ---- | ---- | ---- | ---- |
-Sie | kann | stundenlang | telefonieren
-Am Sonntag | muss | ich nicht | arbeiten
+Sie | **kann** | stundenlang | telefonieren
+Am Sonntag | **muss** | ich nicht | arbeiten
 
 ### Tätigkeiten
 * einen Kurs *leiten*

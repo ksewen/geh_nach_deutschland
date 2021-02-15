@@ -69,7 +69,7 @@ Die Touristen | gehen | zum Stadion.<br/>zum Zoo.<br/>zum Bahnhof.
 ### Modalverben
 &nbsp; | Position 2 (Modalverb) | &nbsp; | Satzende (Infinitiv)
  | ---- | ---- | ---- | ---- |
-Die Studenten | wollen | Sehenswürdigkeiten | besichtigen.
+Die Studenten | **wollen** | Sehenswürdigkeiten | besichtigen.
 
 ### Wörter verbinden
 * eine Route *planen*
