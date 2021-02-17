@@ -77,6 +77,16 @@ Unregelmäßig
 Sie | **kann** | stundenlang | telefonieren
 Am Sonntag | **muss** | ich nicht | arbeiten
 
+### Verben können und müssen
+&nbsp; | können | müssen
+ | ---- | ---- | ---- |
+ich | kann | muss
+du | kannst | musst
+er/sie/es | kann | muss
+wir | können | müssen
+ihr | könnt | müsst
+Sie/sie | können | müssen
+
 ### Tätigkeiten
 * einen Kurs *leiten*
 * Kunden am Telefon *beraten*

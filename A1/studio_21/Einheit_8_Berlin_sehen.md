@@ -71,6 +71,16 @@ Die Touristen | gehen | zum Stadion.<br/>zum Zoo.<br/>zum Bahnhof.
  | ---- | ---- | ---- | ---- |
 Die Studenten | **wollen** | Sehenswürdigkeiten | besichtigen.
 
+### Das Verb wollen
+&nbsp; | dürfen
+ | ---- | ---- |
+ich | will
+du | willst
+er/sie/es | will
+wir | wollen
+ihr | wollt
+Sie/sie | wollen
+
 ### Wörter verbinden
 * eine Route *planen*
 * vom Stadttor *erzählen*

@@ -98,7 +98,7 @@ zahlen &emsp; z*ä*hlen<br/>
 das Wort &emsp; die W*ö*rter<br/>
 der Stuhl &emsp; die St*ü*hle<br/>
 
-### Das Verb habe
+### Das Verb haben
 &nbsp; | haben 
  | ---- | ---- |
 ich | habe 
