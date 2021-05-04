@@ -19,7 +19,7 @@
 ```
 
 ```
-+ Was möchten Sie trinken?/ Was möchte du trinken?
++ Was möchten Sie trinken?/ Was möchtest du trinken?
 - Ich möchte Kaffee trinken.
 + Mit Zucker?
 - Ja, bitte.
