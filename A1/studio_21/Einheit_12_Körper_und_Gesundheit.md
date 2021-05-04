@@ -5,7 +5,7 @@
 ## Fragen und antworten
 ### Beim Arzt
 ```
-+ Was fehlt Ihnen (denn)Ü?
++ Was fehlt Ihnen (denn)?
 - Ich fühle mich nicht gut./ Mir geht es nicht gut.
 + Tut das weh?
 - Ich habe Bauchschmerzen/Magenschmerzen.
